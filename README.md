@@ -1,5 +1,6 @@
 # Slide_OOP_Cplusplus
 Link youtube: https://youtu.be/5bKotIbNTz0?list=PLQj93CJe0N70QAe630Lcg4GZlrDdsYxZL
+
 All slides:
 1. [Lập trình hướng đối tượng] Giới thiệu lập trình Hướng đối tượng với C++
 2. [Lập trình hướng đối tượng] Các mở rộng trong C++ P1
@@ -17,5 +18,8 @@ https://github.com/ailabteam/OOP_Cplusplus/tree/master/samples
 
 Project with dev C++:
 https://github.com/ailabteam/OOP_Cplusplus/tree/master/projects
+
+Slides:
+https://github.com/ailabteam/OOP_Cplusplus/tree/master/slides
 
 Thanks!
