@@ -11,8 +11,11 @@ All slides:
 8. [Lập trình hướng đối tượng] Chương 5: Tính thừa kế
 9. [Lập trình hướng đối tượng] Chương 6: Hàm và lớp template
 10. [Lập trình hướng đối tượng] Chương mở rộng: Thao tác với project trong Dev C++
+
 Samples code:
 https://github.com/ailabteam/OOP_Cplusplus/tree/master/samples
+
 Project with dev C++:
 https://github.com/ailabteam/OOP_Cplusplus/tree/master/projects
+
 Thanks!
